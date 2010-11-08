@@ -9,5 +9,5 @@
   <default revision="master" remote="origin" />
 
   <project path="Firefly" name="Firefly" />
-  <project path="Xaml" name="Xaml" />
+  <project path="Xaml" name="Xaml" revision="android" />
 </manifest>
